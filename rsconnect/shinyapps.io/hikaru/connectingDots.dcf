@@ -1,0 +1,12 @@
+name: connectingDots
+title: ConnectingDots
+username: hikaru
+account: hikaru
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12985322
+bundleId: 9387979
+url: https://hikaru.shinyapps.io/connectingDots/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
